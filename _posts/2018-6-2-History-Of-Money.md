@@ -5,7 +5,7 @@ title: History of Money Educational App
 
 An app to help students learn about the history of money, built in vanilla JavaScript/HTML/CSS
 
-This app was a group project built during JavaScript project week, this took place on week XXXX of CodeClan, and was built with Joseph Manual, Ryan Mackay and Balazs Kertesz, all fellow CodeClan students.
+This app was a group project built during JavaScript project week, this took place on week XXXX of CodeClan, and was built with Joseph Manuel, Ryan Mackay and Balazs Kertesz, all fellow CodeClan students.
 
 The brief was to build an educational app, that featured some level of interactivity. The group decided on the history of money, displayed as an interactive timeline.
 
