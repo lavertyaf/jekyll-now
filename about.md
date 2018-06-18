@@ -10,6 +10,6 @@ Aileen studied web development in Codeclan, Edinburgh in early 2018. She is curr
 
 Aileen is passionate about people, whether working in a team, coaching, mentoring or developing relationships, she easily connects with others. Her unique skill set encompasses finance, web development, project and people management. Aileen is a problem solver and she is comfortable translating complex issues into simplified concepts to present to large audiences. Her experience in the financial sector has honed her purchasing and negotiation skills as well as developed her programme management experience.
 
-### Drop her a line
+### Get in touch
 
 [lavertyaileen@gmail.com](mailto:lavertyaileen@gmail.com)
