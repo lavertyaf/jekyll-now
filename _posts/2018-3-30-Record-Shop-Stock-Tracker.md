@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stockify
-stockify_url: https://stockifystocksystem.herokuapp.com/
+hosted_url: https://stockifystocksystem.herokuapp.com/
 ---
 
 A stock tracker using Ruby/HTML/CSS/Sinatra
